@@ -8,3 +8,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NgocNhan43&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<br clear="both">
+<img src="https://raw.githubusercontent.com/IceVision076/IceVision076/output/snake.svg" alt="Snake animation" />
+
+
